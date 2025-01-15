@@ -1,1 +1,1 @@
-# to_do_list
+Developed a dynamic To-Do List Web Application using HTML, CSS, and JavaScript. The app allows users to add, edit, delete, and mark tasks as completed with a user-friendly interface. Implemented a "Clear All Tasks" feature to reset the task list and an "Edit Task" functionality for real-time updates. Designed a responsive layout with interactive UI elements to enhance usability and accessibility. Demonstrated core web development concepts such as DOM manipulation, event handling, and responsive design principles.# to_do_list
